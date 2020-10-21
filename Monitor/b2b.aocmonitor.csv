@@ -1,0 +1,471 @@
+﻿产品ID,产品型号 ,屏幕尺寸(对角),屏幕宽高比,面板类型,点距（H×V）mm,画面尺寸（H×V）mm,亮度(典型值),动态对比度(典型值),对比度(典型值),响应时间(典型值),可视角度(水平/垂直),分辨率,扫描频率,显示颜色,HDCP功能,接口,喇叭,额定电源,消耗功率,认证,外壳颜色,壁挂,支架,显示器(含支架/底座)（W×H×D）mm,显示器(不含支架/底座)（W×H×D）mm,包装箱（W×H×D）mm,净重(含支架/底座),净重(不含支架/底座),毛重(含包装),包装清单,图片列表,Size 尺寸,Chipset 方案,拼接缝隙,光源,亮度,对比度,反应时间,像素点距,可视角度,寿命,色饱和度 ,可视面积,色彩度 ,电压,最大功率,待机功率 ,工作温度,储藏温度,储藏湿度,工作湿度,显示模式,最长使用时间(小时/天),HDMI 输入接口 ,DVI 输入接口,VGA 输入接口,PC_AUDIO 输入接口,Y PB PR 输入接口,S-VIDEO 输入接口,VIDEO 输入接口,AUDIO 输入接口,USB 输入接口,VIDEO 输出接口,AUDIO 输出接口,RS232,净重,毛重,裸机外形尺寸 (W x D x H),包装尺寸 (W x D x H),外壳材料,面框宽度 (T/B/L/R) ,孔位,OSD,遥控器,电源线 ,RS232 信号连接线,合格证,说明书,保修卡,功能,尺寸,系统版本,处理器,RAM 内部缓存容量,解码分辨率,面板,触摸式屏幕,钢化玻璃,玻璃透光率,插值分辨率,可触精密度,输出,可触直径,多点触控操作系统,单点触控操作系统,视频格式,图片格式,菜单语言,面板型号,最大分辨率,屏亮度,色彩度,可视角,色饱和度,储存温度,储存湿度,待机功率,内部喇叭,HDMI-IN,HDMI  OPS(option),DVI IN,VGA-IN,PC-AUDID IN,YPBPR,LAN,AV-IN,AV-OUT,COAXIAL,EARPHONE,SPDIF,TV,MEDIA-USB,PC-USB,TOUCH-USB,RS232-IN,RS232 OUT,外壳材料（面框/后壳）,外壳颜色（面框/后壳）,裸机外形尺寸(W*D*H),包装尺寸(W*D*H),面框宽度(T/B/L/R),VESA 孔位,电源线,触摸笔,连接线,挂墙件,书写软件 ,AG 防眩光玻璃,Miracast 无线传屏（选配）,可移动支架（选配）,发射器（选配）
+2,LV343HQPX,"34""W",21:9,IPS技术,0.312(H)mmx0.310(V)mm,799.8(H)mmx334.8(V)mm ,300 cd/m²  ,50000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1080,"水平: 
+30k - 99kHz 
+垂直: 
+50 - 76Hz",16.7M,有,"D-Sub,DVI-D(双通道),HDMI(MHL),DP,音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:58W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，Win 8, CE，EPA",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 180mm
+左右旋转: +/-180°",827.7(W)x(446~626)(H)x229(D)mm,827.7(W)x372.7(H)x58.2(D)mm,953(W)x517(H)x280(D)mm,9.48kg,5.88kg,12.88kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI线
+音频线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,LV253WQP,"25""W",16:9,IPS技术,0.216(H)mmx0.216(V)mm,552.96(H)mmx311.04(V)mm ,350 cd/m²  ,50000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 83kHz (D-Sub)   
+30k - 99kHz (DVI-D(双通道),HDMI,DP)    
+垂直: 
+50 - 76Hz",16.7M,有,"D-Sub,DVI-D(双通道),HDMI,DP, 音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:42W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, Win 8,   CE, FCC",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",570.4(W)x411.5(H)x138.3(D)mm,570.4(W)x341.8(H)x52.6(D)mm,654(W)x490(H)x187(D)mm,5.6kg,3.6kg,7.42kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,LV243XQP,"23.8""W",16:9,IPS技术,0.20535(H)X0.20535(V)mm,525.696(H)X295.704(V)mm,300 cd/m²  ,50000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 99kHz 
+垂直: 
+50 - 76Hz (D-SUB, DVI-D(双通道), HDMI,DP)
+23 - 76Hz (MHL)",16.7M,有,"D-Sub,DVI-D(双通道),HDMI(MHL),DP, 音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:37W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，Win 10, cTUVus, FCC,CE",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",542.7(W)x420.8(H)x164(D)mm,542.7(W)x325.0(H)x47(D),627(W)x511(H)x165(D)mm,5.14kg,3.55kg,6.88kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线
+音频线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,LV323HQPX,"32""W",16:9,VA技术,0.2767(H)mmx0.2767(V)mm,708.48(H)mmx398.52(V)mm ,300 cd/m²  ,50000000:1,3000:1,4ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 83kHz (D-Sub)   
+30k - 99kHz (DVI-D(双通道),HDMI/MHL,DP)    
+垂直: 
+50 - 76Hz",10.7亿,有,"D-Sub,DVI-D(双通道),HDMI(MHL),DP, USB3.0×2, USB 2.0×2,音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:70W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, Win 8,EPA",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-22°
+垂直旋转: 90°
+高度调整: 165mm
+左右旋转: +/-160°",741.8(W)x(494.6~659.6)(H)x229(D)mm,741.8(W)x438.4(H)x60.8(D)mm,858(W)x577(H)x248(D)mm,11.54kg,7.95kg,15.34kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,LV323WUPX,"31.5""W",16:9,VA技术,0.181(H)mmx0.181(V)mm,698.4(H)mmx392.85(V)mm ,300 cd/m²  ,50000000:1,3000:1,4ms GtG,178°/178°(CR≥10),3840x2160,"水平: 
+30k - 99kHz (D-Sub, DVI-D(双通道), MHL, HDMI 1.4b)
+30k - 160kHz (DP, HDMI 2.0)
+垂直: 
+23 - 80Hz",10.7亿,有,"D-Sub,DVI-D(双通道),HDMI2.0(MHL),DP,USB3.0×2, USB 2.0×2, 音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:50W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，Win 10, EPA，cTUVus, FCC,CE",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-22°
+垂直旋转: 90°
+高度调整: 165mm
+左右旋转: +/-160°",741.8(W)x(495.2~660.2)(H)x229.1(D)mm,741.8(W)x438.4(H)x60.8(D)mm,858(W)x577(H)x248(D)mm,9.95kg,6.35kg,13.6kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,LV273HUPX,"27""W",16:9,IPS技术,0.1554(H)X0.1554(V)mm,596.74(H)X335.66(V)mm,350 cd/m²  ,50000000:1,1300:1,5ms GtG,178°/178°(CR≥10),3840x2160,"水平: 
+30k - 99kHz (D-SUB, DVI-D(双通道), HDMI1.4b, MHL)
+30k - 160kHz (HDMI2.0, DP)
+垂直: 
+23 - 80Hz ",10.7亿,有,"D-Sub,DVI-D(双通道),HDMI2.0(MHL), DP, USB3.0×2, USB 2.0×2, 音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:47W（典型值）;
+待机:<1W","CCC，CH RoHS，CEL，Win 10, cTUVus, FCC,CE,EPA",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-180°",614.9(W)x(401.2~531.2)(H)x194.3(D)mm,614.9(W)x366(H)x43.5(D)mm,715(W)x480(H)x224(D)mm,7.3kg,5.1kg,9.7kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,LV273HQPX,"27""W",16:9,IPS技术,0.2331(H)X0.2331(V)mm,596.74(H)X335.66(V)mm,350 cd/m²  ,50000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 99kHz 
+垂直: 
+50 - 76Hz (D-SUB, DVI-D(双通道), HDMI,DP)
+23 - 76Hz (MHL)",16.7M,有,"D-Sub,DVI-D(双通道),HDMI(MHL) ,DP, USB3.0×2, USB2.0×2, 音频输入,音频输出",3Wx2,"100-240VAC, 50/60Hz , 1.5A","正常工作:38W（典型值）;
+待机:<1W","CCC，CH RoHS，CEL，Win 10,  cTUVus, FCC,CE,EPA",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-180°",614.9(W)x(401.2~531.2)(H)x194.3(D)mm,614.9(W)x366(H)x43.5(D)mm,715(W)x480(H)x224(D)mm,7.3kg,5.1kg,9.7kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+工厂校准报告
+电源线
+HDMI信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,I2475SXHE,"23.8""W",16:9,IPS技术,0.2745(H)mmx0.2745(V)mm,527.04(H)mmx296.46(V)mm ,250 cd/m²  ,20000000:1,1000:1,6ms GtG(bw),178°/178°(CR≥10),1920x1080,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:25W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, Win10",黑色,VESA 100mm×100mm,"倾斜: -5°-20°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",554.4(W)x423.7(H)x193.5(D)mm,554.4(W)x340(H)x57.1(D)mm,624(W)x420(H)x120(D)mm,3.4kg,3.15kg,4.6kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,E1670SWUE,"15.6""W",16:9,TN,0.252×0.252 mm,344.23× 193.54mm,220 cd/m²  ,20000000:1,500:1,12ms,90°/60°(CR≥10),1366x768,"水平: 30k - 60kHz
+垂直: 57 - 63Hz",262144,无,D-Sub     ,无,"5Vdc, 2A","正常工作:7W（典型值）;
+待机:<0.5W","CCC, CH RoHS, CEL, Win10, CECP",黑色,VESA 75mm×75mm,"倾斜: -5°-15°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",375.7(W)x301.4(H)x142.2(D)mm,375.7(W)x238.7(H)x35.9(D)mm,433(W)x317(H)x118(D)mm,1.21kg, 0.95kg,1.89kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源适配器
+D-SUB信号线
+USB(电源)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,E719SD/BK,"17""",5:4,TN,0.264(H)mmx0.264(V)mm,337.92(H)mm×270.336(V)mm,250 cd/m²  ,20000000:1,1000:1,5ms,170°/160°(CR≥10),1280x1024,"水平: 30k - 83kHz                      
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,DVI-D",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:12W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, TCO,CE, FCC, EPA, Win10",黑色,VESA 100mm×100mm,"倾斜: -5°~ 20°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",371.6(W)x382.6(H)x190(D) mm,371.6(W)x323(H)x58.9(D) mm,448(W)x131(H)x687(D) mm,3.06kg,2.79kg,4.16kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,I960SRDA,"19""",5:4,IPS技术,0.2928(H)mmx0.2928(V)mm,374.784(H)mm×299.8272(V)mm,250 cd/m²  ,20000000:1,1000:1,6ms GtG(bw),178°/178°(CR≥10),1280x1024,"水平: 30k - 83kHz                      
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,DVI-D, 音频输入",2Wx2,"100-240VAC, 50/60Hz, 1.5A","正常工作:18W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, TCO,CE, FCC, cTUVus, EPA, Win8",黑色,VESA 100mm×100mm,"倾斜: -5°~ 22°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",409.2(W)x405.1(H)x209.4(D) mm,409.2(W)x345.6(H)x47.5(D) mm,465(W)x473(H)x118(D) mm,2.85kg,2.67kg,4.2kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线
+音频线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,E2272PWUT/BS,"21.5""W",16:9,TN,0.24825(H)x0.24825(V)mm,476.65(H)x268.11(V)mm,250 cd/m²  ,50000000:1,1000:1,2ms(GTG),170°/160°(CR≥10),1920x1080,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI(MHL)×2,USB2.0×3,音频输入,音频输出",2Wx2,"20Vdc,3.25A ","正常工作:  45W（典型值）;
+待机:<0.5W（禁用触摸/USB）
+<2W（启用触摸/USB）","cTUVus,CCC,FCC,CE,Win8,BSMI,VCCI,J-Moss, CH RoHS,CEL",黑色/银色,VESA 75mm×75mm,"倾斜: 15°-57°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",521.9(W)x321.4(H)x43.7(D)mm,521.9(W)x321.4(H)x43.7(D)mm,587(W)x410(H)x117(D)mm,3.93kg,\,5.5kg,"液晶显示器
+简易说明书
+保修证书
+显示器支架
+电源线
+电源适配器
+D-SUB信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,E2472PWUT/BS,"23.6""W",16:9,TN,0.2715(H)mmx0.2715(V)mm,521.28(H)mmx293.22(V)mm ,250cd/m² ,50000000:1,1000:1,2ms(GTG),170°/160°(CR≥10),1920x1080,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI(MHL)×2,USB2.0×3,音频输入,音频输出",2Wx2,"20Vdc,3.25A ","正常工作:  45W（典型值）;
+待机:<0.5W（禁用触摸/USB）
+<2W（启用触摸/USB）","cTUVus,CCC,FCC,CE,Win8,BSMI,VCCI,J-Moss, CH RoHS, CEL",黑色/银色,VESA 75mm×75mm,"倾斜: 15°-57°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",561.9(W)x353.36(H)x42.9(D)mm,561.9(W)x353.36(H)x42.9(D)mm,634(W)x442(H)x115(D)mm,4.6kg,\,6.3kg,"液晶显示器
+简易说明书
+保修证书
+显示器支架
+电源线
+电源适配器
+D-SUB信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,I975SWHE,"18.5""W",16:9,IPS技术,0.3(H)x0.3(V)mm,409.8(H)x230.4(V)mm,250 cd/m²  ,20000000:1,1000:1,6ms GtG(bw),178°/178°(CR≥10),1366x768,"水平: 30k - 60kHz
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:17W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, Win10",黑色,VESA 100mm×100mm,"倾斜: -5°-20°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",440.4(W)x358.7(H)x173.5(D)mm,440.4(W)x273.5(H)x52(D)mm,504(W)x358(H)x123(D)mm,2.3kg,2.0kg,3.4kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,E2275SWN,"21.5""W",16:9,TN,0.24825(H)x0.24825(V)mm,476.64(H)x268.11(V)mm,200 cd/m²  ,20000000:1,600:1,5ms,90°/65°(CR≥10),1920x1080,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,无,D-Sub         ,无,"100-240VAC, 50/60Hz, 1.5A","正常工作:20W（典型值）;        
+待机:<0.5W","CCC，CH RoHS，CEL，CECP, Win10",黑色,VESA 100mm×100mm,"倾斜: -5°-20°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",504(W)x395.3(H)x193.5(D)mm,504(W)x311(H)x56.6(D)mm,560(W)x390(H)x120(D)mm,2.9kg,2.56kg,4.0kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,E2290VW,"21.5""W",16:9,TN,0.24825(H)X0.24825(V)mm,476.64(H)X268.11(V)mm,250cd/m²,20000000:1,1000:1,5ms,170°/160°(CR≥10),1920x1080,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,DVI-D                ",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:22W（典型值）;
+待机:<0.5W",CCC，CH RoHS，CEL，CECP，Win10,黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",508.4(W)x400.1(H)x200(D) mm,508.4(W)x304.3(H)x45(D) mm,558(W)x360(H)x130(D) mm,3.1kg,2.55kg,4kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+DVI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,I2290VWHD,"21.5""W",16:9,IPS技术,0.24795X0.24795,476.064X267.786,250cd/m²,,1000:1,5ms GtG,178°/178°,1920x1080,,16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:21W（典型值）;
+待机:<0.5W",CCC，CH RoHS，CEL，CECP，Win10,黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架",489.4(W)x388.2(H)x200(D) mm,489.4x292.5x44,558x360x130,3.2kg,2.69kg,4.1kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Q2490VXQ,"23.8""W",16:9,IPS技术,0.2058(H)mmx0.2058(V)mm,526.85(H)mmx296.35(V)mm ,250cd/m²,20000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 83kHz (D-SUB)
+30k - 99kHz (HDMI,DP)
+垂直: 
+50 - 76Hz",16.7M,有,"D-Sub,HDMIx2,DP,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:28W（典型值）;
+待机:<0.5W",CCC，CH RoHS，CEL，CECP，Win10,黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",539(W)x408(H)x200(D)mm,539(W)x321(H)x43(D)mm,606(W)x400(H)x157(D)mm,3.9kg,3.25kg,5.25kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,I2490PXZ,"23.8""W",16:9,IPS技术,0.2745(H)x0.2745(V)mm,527.04(H)x296.46(V)mm ,250cd/m²,50000000:1,1000:1,5ms GtG,178°/178°(CR≥10),1920x1080,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,DVI-D,HDMI,DP, 音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:20W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP，Win10, EPA,CE, FCC",黑色/银色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-45°",540.2(W)x(366~496)(H)x200(D)mm,540.2(W)×312.2(H)×45(D)mm,617(W)x411(H)x206(D)mm,4.75kg,3.04kg,6.68kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,I2790VH,"27""W",16:9,IPS技术,0.3114(H)mmx0.3114(V)mm,597.888(H) x 336.312(V)mm ,250cd/m²,20000000:1,1000:1,5ms GtG,178°/178°(CR≥10),1920x1080,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:20W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL，CECP，Win10, EPA, CE, FCC,cTUVus",黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",612.6(W)x453.2(H)x199.7(D)mm,612.6(W)x362.1(H)x45.3(D),703(W)x467(H)x185(D)mm,4.5kg,3.8kg,6.36kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Q2790VQ,"27""W",16:9,IPS技术,0.2331(H)x0.2331(V)mm,596.736(H)x335.664(V)mm,350cd/m²,20000000:1,1000:1,5ms GtG,178°/178°(CR≥10),2560x1440,"水平: 
+30k - 83kHz (D-SUB)
+30k - 99kHz (HDMI,DP)
+垂直: 
+50 - 76Hz",16.7M,有,"D-Sub,HDMIx2,DP,音频输出",无,"100-240VAC, 50/60Hz , 1.5A",红色项目预计7月中供数据,"CCC，CH RoHS，CEL，CECP，Win10, EPA, CE, FCC,cTUVus",黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",614.9(W)x444.3(H)x200(D)mm,614.9(W)x364.1(H)x45.5(D)mm,703(W)x468(H)x226(D)mm,5.1kg,4.4kg,7.3kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,I2490VXH,"23.8""W",16:9,IPS技术,0.2745(H)x0.2745(V)mm,527.04(H)x296.46(V)mm ,250 cd/m²  ,20000000:1,1000:1,5ms GtG,178°/178°(CR≥10),1920x1080,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A",预计7/6左右提供功率数据,CCC，CH RoHS，CEL，CECP，Win10,黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",540.5(W)x412(H)x200(D)mm,540.5(W)x321(H)x46(D)mm,623(W)x486(H)x125(D)mm,3.6kg,3.0kg,5.23kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,E2590VXH,"24.5""W",16:9,TN,0.2832(H)mmx0.2802(V)mm,543.744(H)mmx302.616(V)mm ,250cd/m²,20000000:1,1000:1,2ms GtG,170°/160°(CR≥10),1920x1080,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:23W（典型值）;
+待机:<0.5W",CCC，CH RoHS，CEL，CECP，Win10,黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+快拆支架
+高度调整: 无
+左右旋转: 无",557(W)x414(H)x200(D)mm,557(W)x329(H)x43(D)mm,625(W)x410(H)x160(D)mm,4.2kg,3.5kg,5.75kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,49D8P,,,,,,,,,,,1929*1080,,,,,,,,,black 黑色,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']","49""",TSUMV59,3.5mm,LED背光,500cd/m2,4000:1,8ms,0.55926mm*0.52926mm,178/178,60000hrs,72%,1073.8(H)mm x604(V)mm,1.07Billion(10bit),100V~240V，50-60Hz,<180W,≤0.5W,0°C~40°C,-10°C~60°C,10%~90% RH Non-Condensing,20%~85% RH Non-Condensing,标准，柔和，用户，亮丽,24小时,*1,*1,*1,*1,*1,*1,*4,*1,*2,*1,*1,RS232-IN x1; RS232-OUT x1 ,21.45Kg±1.5 Kg,31.1Kg±1.5 Kg,1077.58 * 117.67 * 607.8mm,1290*300*800 mm,metal 金属,2.3 / 1.2 / 2.3/ 1.2 mm,"600mm * (20+380+20)mm, 8*M6 screws",英语 / 简中,*1,*1,*1,*1,*1,*1,"支持 8/10bit 双路LVDS(1920*1080)高清显示;
+ 采用 3-D数字梳状滤波器;真彩色OSD,人性化操作菜单;
+ 可支持数字音频输出;采用Mstar ACE-5自动彩色及图像增强引擎, 改善图像的对比度、细节、肤色、边缘;
+采用可编程 12-bit RGB gamma校正技术;
+完善的工厂设置模式; 
+一路HDMI 1.3输入接口,HDCP支持到1.2,一路 DVI 输入接口;
+支持软件展频技术可降低EMI辐射; 
+采用3-D降噪技术;支持高清分辨率的JPEG解码。",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,55D8P,,,,,,,,,,,1929*1080,,,,,,,,,black 黑色,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']","55""",TSUMV59,3.5mm,LED背光,500cd/m2,4000:1,8ms,0.630(H) mm x 0.630(V) mm,178/178,60000hrs,72%,1209.6(H)mm x680.4(V)mm,1.07Billion(10bit),100V~240V，50-60Hz,<280W ,≤0.5W,0°C~40°C,-10°C~60°C,10%~90% RH Non-Condensing,20%~85% RH Non-Condensing,标准，柔和，用户，亮丽,24小时,*1,*1,*1,*1,*1,*1,*4,*1,*2,*1,*1,RS232-IN x1; RS232-OUT x1,25.3Kg±1.5 Kg,34.8Kg±1.5 Kg,1213.4 * 125.85 * 684.2 mm,1415*300*895 mm,metal 金属,2.3 / 1.2 / 2.3/ 1.2 mm,"600mm * (20+380+20)mm, 8*M6 screws",英语 / 简中,*1,*1,*1,*1,*1,*1,"支持 8/10bit 双路LVDS(1920*1080)高清显示;
+采用 3-D数字梳状滤波器;真彩色OSD,人性化操作菜单; 
+可支持数字音频输出;采用Mstar ACE-5自动彩色及图像增强引擎, 改善图像的对比度、细节、肤色、边缘;
+采用可编程 12-bit RGB gamma校正技术;
+完善的工厂设置模式; 
+一路HDMI 1.3输入接口,HDCP支持到1.2,一路 DVI 输入接口; 
+支持软件展频技术可降低EMI辐射; 
+采用3-D降噪技术;支持高清分辨率的JPEG解码。",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,E970WN5,"18.5""W",,,0.3(H)x0.3(V)mm,409.8(H)x230.4(V)mm,200 cd/m²  ,,20000000:1（动态）,5ms,90°/65°(CR≥10),1366X768@60Hz,"水平: 30k - 60kHz
+垂直: 50 - 76Hz",16.7M,无,D-Sub  15-pin             ,无,"100-240VAC, 50/60Hz, 1.5A","正常工作:15W（典型值）;
+待机:<0.5W","CCC, CH RoHS, CEL 1, Win8, CECP",黑色,VESA 100mm×100mm,,437.4(W)x336.8(H)x156(D)mm,,494(W)x359(H)x109(D)mm,,2.15kg,2.8kg,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,E2280SWN,"21.5""W",,,0.2482(H)X0.2482(V)mm,476.64(H)X268.11(V)mm,200 cd/m²  ,,20000000:1（动态）,5ms,90°/65°(CR≥10),1920x1080@60Hz,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,无,D-Sub 15-pin,无,"19Vdc,1.31A","正常工作:20W（典型值）;
+待机:<0.5W","CCC，CH RoHS，CEL 1，CECP, Win8",黑色,VESA 100mm×100mm,,509.5(W)x381.1(H)x190(D)mm,,570(W)x395(H)x118(D)mm,,2.51kg,3.57kg,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,E2250SD,"22""W",,,0.282mm(H)x 0.282mm(V),473.76 x296.1 mm,250cd/m2,,20000000:1 (动态）,5ms,170°/160°(CR≥10),1680x 1050  @60Hz,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,有,D-Sub  15-pin & 24-pin DVI-D            ,无,"100-240VAC, 50/60Hz, 1.5A","正常工作:25W（典型值）;
+待机:<0.5W","CE,CECP,cCSAus,FCC,EPEAT Silver,CCC,EPA Win7,china RoHs,CSC",黑色,VESA 75mm×75mm,,508.74(W) x 408.48(H) x 190(D),,562(W)x420(H)x109(D)mm,,3.77Kg,4.62Kg,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,A2272PWRP/BW,"21.5""W",16:9,IPS技术,0.24825(H)x0.24825(V)mm,476.6(H)x268.11(V)mm,250 cd/m²  ,50000000:1,1000:1,5ms GtG,178°/178°(CR>10),1920x1080@60Hz,"水平: 30k - 83kHz
+垂直: 50 - 76Hz",16.7M,有,"• D-Sub×1,HDMI×1
+• USB 2.0×4
+• Micro USB (支持OTG功能)
+• RJ45以太网接口(10/100Mbps) 
+• 音频输入
+• 音频输出(耳麦接口)
+• SD卡插槽",2Wx2,"20Vdc, 3.25A","正常工作:20W（典型值）;
+待机:≤0.5W(D-SUB/HDMI); 
+≤5W(Android)","CCC，CH RoHS，CEL，CECP，Win10, SRRC",黑色/白色,VESA 75mm×75mm,"倾斜: 15°-57°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",521.9(W)x322.5(H)x44.3(D)mm,,587(W)x410(H)x117(D)mm,3.87kg,,5.48kg,"智能一体机
+说明书
+保修证书
+一体机支架
+电源线
+电源适配器
+D-SUB信号线
+音频线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,I2490VXH/BS,"23.8""W",16:9,AH-IPS,0.2745(H)x0.2745(V)mm,527.04(H)x296.46(V)mm ,250 cd/m²  ,20000000:1,1000:1,5ms GtG,178°/178°(CR≥10),1920x1080@60Hz,"水平: 30k - 83kHz    
+垂直: 50 - 76Hz",16.7M,有,"D-Sub,HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:21W（典型值）;
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10,银色/黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",540.5(W)x412(H)x200(D)mm,540.5(W)x321(H)x46(D)mm,620(W)x420(H)x182(D)mm,3.48kg,2.88kg,4.95kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Q2490PXQ,"23.8""W",16:9,IPS技术,0.2058(H)x0.2058(V)mm,526.85(H)x296.35(V)mm ,250cd/m²,50000000:1,1000:1,5ms GtG,178°/178°(CR>10),"1920x1080@60Hz (D-SUB)
+2560x1440@60Hz (HDMI,DP)   ","水平: 
+30k - 83kHz (D-SUB)
+30k - 99kHz (HDMI,DP)
+垂直: 
+50 - 76Hz",16.7M,有,"D-Sub,HDMIx2,DP,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:30W（典型值）;
+待机:≤0.5W","CCC，CH RoHS，CEL，CECP，Win10, 中国环境标志",黑色,VESA 100mm×100mm,"倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-45°",539(W)x(383~513)(H)x200(D)mm,539(W)x321(H)x43(D)mm,608(W)x405(H)x208(D)mm,4.85kg,3.25kg,6.4kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,9E1H,"18.5""W",16:9,TN,0.3(H)x0.3(V)mm,409.8(H)x230.4(V)mm,200 cd/m²,,600:1,5ms,90°/65°(CR>10),1366×768,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:11W（典型值）
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，能源之星，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架
+倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",439.6(W)x374.9(H)x199.4(D)mm,439.6(W)x268.1(H)x44.5(D)mm,500(W)x364(H)x139(D)mm,2.1kg,1.7kg,2.98kg,"液晶显示器,
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,20E1H,"19.5""W",16:9,TN,0.27(H)x0.27(V)mm,433.92(H)x236.34(V)mm,200 cd/m²  ,,600:1,5ms,90°/65°(CR>10),1600×900,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:12W（典型值）;
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，能源之星，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",461.4(W)x379.3(H)x199.4(D)mm,461.4(W)x276.9(H)x44.8(D)mm,521(W)x368(H)x140(D)mm,2.35kg,1.97kg,3.46kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,27E1H,"27""W",16:9,IPS技术,0.3114(H) x 0.3114(V)mm,597.89(H) x 336.31(V)mm ,250 cd/m²  ,,1000:1,5ms GtG ,178°/178°(CR>10),1920x1080,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:26W（典型值）;,
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，CE，FCC，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",627.9(W)x458.79(H)x203.54(D)mm,627.9(W)x375.81(H)x51.84(D)mm,710(W)x476(H)x140(D)mm,4.58kg,3.95kg,6.16kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,22E1,"21.5""W",16:9,TN,0.24825(H)mmx0.24825(V)mm,476.64(H)X268.11(V)mm,200 cd/m²  ,,600:1,5ms,90°/65°(CR>10),1920x1080,,16.7M,无,D-Sub,无,"100-240VAC, 50/60Hz , 1.5A","正常工作:16W（典型值）;
+(待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",504.4(W)x393.7(H)x199.4(D)mm,504.4(W)x305.5(H)x47(D)mm,564(W)x401(H)x137(D)mm,2.61kg,2.4kg,3.7kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,22E1H,"21.5""W",16:9,TN,0.24825(H)mmx0.24825(V)mm,476.64(H)X268.11(V)mm,250 cd/m²  ,,1000:1,5ms,170°/160°(CR>10),1920x1080,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz , 1.5A","正常工作:16W（典型值）;
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，能源之星，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",504.4(W)x393.7(H)x199.4(D)mm,504.4(W)x305.5(H)x47(D)mm,564(W)x401(H)x137(D)mm,2.64kg,2.4kg,3.8kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,24E1H,"23.8""W",16:9,IPS技术,0.2745(H)x0.2745(V)mm,527.04(H)x296.46(V)mm ,250 cd/m²  ,,1000:1,5ms GtG ,178°/178°(CR>10),1920x1080,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:23W（典型值）;
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",539.1(W)x404.9(H)x199.4(D)mm,539.1(W)x325.6(H)x49.6(D)mm,609(W)x421(H)x137(D)mm,2.9kg,2.5kg,4.32kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+D-SUB信号线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,24P1U,"23.8""W",16:9,IPS技术,0.2745(H)x0.2745(V)mm,527.04(H)x296.46(V)mm ,250 cd/m²  ,,1000:1,5ms GtG,178°/178°(CR>10),1920x1080,,16.7M,有,"D-Sub,HDMI,DP, USB 3.1 Gen1, 音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:20W（典型值）;
+待机:≤0.5W","CCC，CH RoHS，CEL，CECP，Win10, CE, CB, FCC, cTUVus, ISO9241-307,  TUVGS，中国环境标志认证",黑色/灰色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-175°",539.1(W)x(380.3~510.3)(H)x202.5(D)mm,539.1(W)x325.6(H)x49.4(D)mm,752(W)x408(H)x159(D)mm,4.5kg,2.7kg,6.27kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Q27P1U,"27""W",16:9,IPS技术,0.2331(H)x0.2331(V)mm,596.736(H)x335.664(V)mm,250 cd/m²,,1000:1,5ms GtG,178°/178°(CR>10),2560x1440,,10.7亿,有,"D-Sub,HDMIx2,DP, USB 3.1 Gen1, 音频输出",无,"100-240VAC, 50/60Hz, 1.5A","正常工作:40W（典型值）;
+待机:≤0.5W",CCC，CH RoHS，CEL，CECP，Win10，中国环境标志认证,黑色/灰色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 90°
+高度调整: 130mm
+左右旋转: +/-175°",627.9(W)x(408.99~538.99)(H)x202.49(D)mm,627.9(W)x375.81(H)x51.96(D)mm,827(W)x478(H)x186(D)mm,6.1kg,4.3kg,8.3kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线
+HDMI信号线
+USB(上行)线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,X23E1H,"22.5""W",16:10,AH-IPS,0.25425(H) x 0.24765(V)mm,488.160(H) x 297.180(V)mm ,250 cd/m²  ,,1000:1,5ms GtG ,178°/178°(CR>10),1920x1200@60Hz,,16.7M,有,"D-Sub, HDMI,音频输出",无,"100-240VAC, 50/60Hz, 1.5A",正常工作:20W（典型值）;,CCC，CH RoHS，CEL，CECP，Win10，中国环境标志认证,黑色,VESA 100mm×100mm,"支持快拆支架 倾斜: -5°-23°
+垂直旋转: 无
+高度调整: 无
+左右旋转: 无",499(W)x408.1(H)x199.4(D)mm,499(W)x323.9(H)x45.4(D)mm,564(W)x421(H)x137(D)mm,2.82kg,2.44kg,4.22kg,"液晶显示器
+简易说明书
+保修证书
+显示器底座/支架
+电源线","['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,55T11K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.63mm*0.63mm,,"50,000 hrs (typ.)",,1209.6*680.4mm,,"100V-240V,50-60 Hz",150W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,36.75Kg±1.5Kg,44.54 Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,"55""",Android 4.4,MSD6A638,"1GB DDR3, 8GB ROM",Up to 1920P,"66""",Infrared touch 红外触摸,4mm tempered glass 4mm钢化玻璃,＞92%,32767 × 32767,±2mm(over 90% area),Coordinate output 坐标输出,6mm,"Windows 7/8/10, Windows 7 Professional, Windows 7 Home Premium, Android",Windows 7 /Windows XP/Vista/Linux/Mac OS/Android/Wince,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,-,1920 x 1080 (pixels),500cd/m² (typ.),16.7M(8bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*2,*1,-,*1,*1,*1,*1,*1,-,-,*1,*1,*1,*3,*2 (USB3.0*1/USB2.0*1),*1,*1,-,aluminum frame+tempered glass+plastic cover 铝框+钢化玻璃+塑胶后壳,"black frame+black back cover 黑色面框+黑色背板""",1299.9mm*103.5mm*810.8mm,1420mm*245mm*910mm,30.3\70.4\30.3\30.3mm,"300mm*300mm, 4*M6 screws",*1,*2,-,*1,*1,*1,*1,*1,*1
+52,65T11K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.420mm*0.315mm,,"50,000 hrs (typ.)",,1428.48*803.52mm,,"100V-240V,50-60 Hz",230W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,51.9Kg±1.5Kg,61.73 Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,"65""",Android 5.0,MSD6A638,"1GB DDR3, 8GB ROM",Up to 1920P,"65""",Infrared touch 红外触摸,4mm tempered glass 4mm钢化玻璃,＞92%,32767 × 32767,±2mm(over 90% area),Coordinate output 坐标输出,6mm,"Windows 7/8/10, Windows 7 Professional, Windows 7 Home Premium, Android",Windows 7 /Windows XP/Vista/Linux/Mac OS/Android/Wince,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,K650WD7-LB450A1,3840 x 2160 (pixels),500cd/m² (typ.),1.07B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*2,*1,-,*1,*1,*1,*1,*1,-,-,*1,*1,*1,*3,*2 (USB3.0*1/USB2.0*1),*1,*1,-,aluminum frame+tempered glass+plastic cover 铝框+钢化玻璃+塑胶后壳,"black frame+black back cover 黑色面框+黑色背板""",1518.3mm*106.1mm*934.3mm,1660mm*245mm*1045mm,30.3\70.4\30.3\30.3mm,"400mm*400mm, 4*M8 screws",*1,*2,-,*1,*1,*1,*1,*1,*1
+53,75T11K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.429mm*0.429mm,,"50,000 hrs (typ.)",,1647.36*926.64mm,,"100V-240V,50-60 Hz",460W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,64.05Kg±1.5Kg,78.68 Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,75',Android 5.0,MSD6A828-K8B Quad-core processor ARM A53 1.5GHz,"2GB DDR3, 16GB ROM",Up to 2160P,"75""",Infrared touch 红外触摸,4mm tempered glass 4mm钢化玻璃,＞92%,32767 × 32767,±2mm(over 90% area),Coordinate output 坐标输出,6mm,"Windows 7/8/10, Windows 7 Professional, Windows 7 Home Premium, Android",Windows 7 /Windows XP/Vista/Linux/Mac OS/Android/Wince,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,K750WD90-LA450A1,3840 x 2160 (pixels),500cd/m² (typ.),1.07B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*2,*1,-,*1,*1,*1,*1,*1,*1,-,*1,*1,*1,*1 (USB2.0*1),*2 (USB3.0*2),*1,*1,-,aluminum frame+tempered glass+plastic cover 铝框+钢化玻璃+塑胶后壳,"black frame+black back cover 黑色面框+黑色背板""",1744.61mm*110.7mm*1063.16mm,1880mm*280mm*1160mm,30.4\70.4\30.4\30.4mm,"600mm*400mm, 4*M8 screws",*1,*2,-,*1,*1,*1,*1,*1,*1
+54,86T11K,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.4935mm x 0.4935mm,,"50,000 hrs (typ.)",,1895.04mm*1065.96mm,,"100V-240V,50-60 Hz",500W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,84.25Kg±1.5Kg,103.35Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,86',Android 5.0,MSD6A828-K8B Quad-core processor ARM A53 1.5GHz,"2GB DDR3, 16GB ROM",Up to 2160P,"86""",Infrared touch 红外触摸,4mm tempered glass 4mm钢化玻璃,＞92%,32767 × 32767,±2mm(over 90% area),Coordinate output 坐标输出,6mm,"Windows 7/8/10, Windows 7 Professional, Windows 7 Home Premium, Android",Windows 7 /Windows XP/Vista/Linux/Mac OS/Android/Wince,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,K860WD90-LA400A1,3840 x 2160 (pixels),500cd/m² (typ.),1.07B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*2,*1,-,*1,*1,*1,*1,*1,*1,-,*1,*1,*1,*1 (USB2.0*1),*2 (USB3.0*2),*1,*1,-,aluminum frame+tempered glass+metal cover 铝框+钢化玻璃+金属后壳,"black frame+black back cover 黑色面框+黑色背板""",1997.9mm*151.55mm*1208.9mm,2140mm*280mm*1340mm,30.4\70.5\30.4\30.4mm,"700mm*400mm, 4*M8 screws",*1,*2,-,*1,*1,*1,*1,*1,*1
+55,75U1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.429mm*0.429mm,,"50,000 hrs (typ.)",,,,"100V-240V,50-60 Hz",400W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,41.4Kg±1.5Kg,60.85Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,"75""",Android 6.0,MSD6A838 Quad-core processor  ARM Cortex A53 1.5GHz,"2GB DDR3, 8GB ROM",Up to 2160P,"75""",,,,,,,,,,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,,3840 x 2160 (pixels),500cd/m² (typ.),1.07B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*3,-,-,-,-,-,*1,*1,-,*1,-,-,*1,"*4 (USB2.0*3, USB3.0*1)",-,-,-,-,metal 金属,"black frame+black back cover 黑色面框+黑色背板""",1714.2*97.2*992.4mm,1990*320*1165mm,31.5\31.5\31.5\31.5mm,"600mm*400mm, 4*M8 screws",*1,*2,-,-,-,-,-,-,-
+56,86U1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.4935mm x 0.4935mm,,"50,000 hrs (typ.)",,,,"100V-240V,50-60 Hz",440W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,56.75Kg±1.5Kg,77.45Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,"86""",Android 6.0,MSD6A838 Quad-core processor  ARM Cortex A53 1.5GHz,"2GB DDR3, 8GB ROM",Up to 2160P,"86""",,,,,,,,,,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,,3840 x 2160 (pixels),500cd/m² (typ.),1.07B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*3,-,-,-,-,-,*1,*1,-,*1,-,-,*1,"*4 (USB2.0*3, USB3.0*1)",-,-,-,-,metal 金属,"black frame+black back cover 黑色面框+黑色背板""",1962*102.6*1137.7mm,2200*360*1370mm,32.5\32.5\32.5\32.5mm,"600mm*400mm, 4*M8 screws",*1,*2,-,-,-,-,-,-,-
+57,98U1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"['http://or60v0gff.bkt.clouddn.com/banner/E-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/P-180402.jpg', 'http://or60v0gff.bkt.clouddn.com/banner/01-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/02-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/03-170915.png', 'http://or60v0gff.bkt.clouddn.com/banner/04-170915.png']",,,,,,4000:1 (typ.),5ms (typ.),0.5622mm x 0.5622mm,,"50,000 hrs (typ.)",,,,"100V-240V,50-60 Hz",480W,,0℃~40℃,,,20% ~ 80% RH Non-Condensing,,24 hours/7 days,,,,,,,,,,,,,115.2Kg±1.5Kg,165.6Kg±1.5Kg,,,,,,,*1,,,*1,*1,*1,,"98""",Android 6.0,MSD6A838 Quad-core processor  ARM Cortex A53 1.5GHz,"2GB DDR3, 8GB ROM",Up to 2160P,"98""",,,,,,,,,,"AVI,MPEG4,WMV,MKV, Flv, MP3,etc.","JPG, JPEG, BMP, PNG, GIF, etc.",English/Chinese or Customized 中英文或客制化,,3840 x 2160 (pixels),500cd/m² (typ.),1.06B(10bit),178°(H) / 178°(V),72%,-10℃～60℃,10%～60% RH Non-Condensing,<0.5W,left and right channels Speaker 10W*2 左右腔体喇叭 10W*2,*3,-,-,-,-,-,*1,*1,-,*1,-,-,*1,"*4 (USB2.0*3, USB3.0*1)",-,-,-,-,metal 金属,"black frame+black back cover 黑色面框+黑色背板""",2196.8*110.44*1251.8mm,2525*435*1750mm,18.8/18.8/18.8/18.8mm,"800mm*(200+200)mm, 4*M8 screws",*1,*2,-,-,-,-,-,-,-
